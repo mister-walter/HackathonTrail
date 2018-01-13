@@ -1,0 +1,6 @@
+[package]
+name = "HackathonTrail"
+version = "0.1.0"
+authors = ["Andrew Walter <mist3rwalter@gmail.com>"]
+
+[dependencies]
