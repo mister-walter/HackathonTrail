@@ -5,4 +5,5 @@ authors = ["Andrew Walter <mist3rwalter@gmail.com>"]
 
 [dependencies]
 termion = "*"
+tui = "*"
 rand = "0.4"
